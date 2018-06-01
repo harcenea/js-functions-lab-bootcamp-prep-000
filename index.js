@@ -9,4 +9,3 @@ function happyHolidayTo(holiday, name) {`Happy ${holiday}, ${name}!`;}
 
 function holidayCountdown(days, holiday) { `It's ${days} days until ${holiday}!` ;} 
 
-console(log)(function happyHolidayTo(holiday, name));
